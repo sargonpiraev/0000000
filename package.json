@@ -1,0 +1,35 @@
+{
+  "name": "0000000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sargonpiraev/0000000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sargonpiraev/0000000/issues"
+  },
+  "homepage": "https://github.com/sargonpiraev/0000000#readme",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "handlebars": "^4.0.6",
+    "handlebars-loader": "^1.4.0",
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-class-properties": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.26.0",
+    "webpack": "^1.14.0"
+  }
+}
